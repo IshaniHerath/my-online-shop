@@ -1,0 +1,17 @@
+.leo-logo{
+    box-sizing:border-box;
+    object-fit:cover;
+    float: right;
+    height:30%;
+    width:30%;
+}
+
+.nav-bar{
+    width: 30%;
+    letter-spacing: 0.3ch;
+}
+
+.dropdown-list{
+    padding-left: 5%;
+    padding-right: 5%;
+}
